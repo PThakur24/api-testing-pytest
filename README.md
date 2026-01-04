@@ -8,7 +8,7 @@ This mini-project automates testing of public REST APIs using **Pytest** and **R
 - PUT /posts/1 → Update post
 - DELETE /posts/1 → Delete post
 
-## c Tools Used
+## Tools Used
 - Python
 - Pytest
 - Requests
